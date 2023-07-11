@@ -1,0 +1,41 @@
+{
+    "_id" : ObjectId("5d201bf191f33912e0c7cfaf"),
+    "name" : "Lê Văn Uy",
+    "email" : "levanuy98@gmail.com",
+    "sdt" : "0328042112",
+    "msg" : "ktx khu A",
+    "cart" : [ 
+        {
+            "tien" : 275000,
+            "soluong" : 1,
+            "item" : {
+                "__v" : 0,
+                "st" : 0,
+                "price" : 275000,
+                "des" : "Còn 62 sản phẩm",
+                "cateId" : "596a2d97a19e4b190c43244b",
+                "img" : "1562360989981_4.jpg",
+                "nameKhongDau" : "somi-nam-smb069009yl",
+                "name" : "SƠMI NAM SMB069009YL",
+                "_id" : "596b282824dc2427fcf847a4"
+            }
+        }, 
+        {
+            "tien" : 145000,
+            "soluong" : 1,
+            "item" : {
+                "__v" : 0,
+                "st" : 0,
+                "price" : 145000,
+                "des" : "CÒN HÀNG",
+                "cateId" : "596b24c5d81daa1288eef4d9",
+                "img" : "1562361903773_non_2__1__500x750.jpg",
+                "nameKhongDau" : "non-21575",
+                "name" : "NÓN 21575",
+                "_id" : "5d1fc02f58bc4a47d073171a"
+            }
+        }
+    ],
+    "st" : 1,
+    "__v" : 0
+}

@@ -1,3 +1,4 @@
-# SourceCode
-Lê Văn Uy - 16521411
-Source code các chương 3 và 4
+# WebBanHangBangNodeJs
+nội chung cơ bản để tìm hiểu về nodejs expressframework
+cơ sở dữ liệu là mongodb
+chạy file:$ npm start

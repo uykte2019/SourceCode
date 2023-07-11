@@ -1,0 +1,23 @@
+{
+    "_id" : ObjectId("596a2d97a19e4b190c43244b"),
+    "name" : "Thời trang nam",
+    "nameKhongDau" : "thoi-trang-nam",
+    "__v" : 0
+},
+{
+    "_id" : ObjectId("5968dc2d386dec1889fd6620"),
+    "name" : "Thời trang nữ",
+    "nameKhongDau" : "thoi-trang-nu"
+},
+{
+    "_id" : ObjectId("5d1fb7be58bc4a47d0731713"),
+    "name" : "Ba lô & Túi xách",
+    "nameKhongDau" : "ba-lo-&-tui-xach",
+    "__v" : 0
+},
+{
+    "_id" : ObjectId("5d1fb8a758bc4a47d0731714"),
+    "name" : "Áo khoác",
+    "nameKhongDau" : "ao-khoac",
+    "__v" : 0
+}
